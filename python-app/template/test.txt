@@ -1,0 +1,4 @@
+This is test file
+
+This app name is : ${{values.name}}
+owner is : ${{values.owner}}
